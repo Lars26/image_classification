@@ -1,5 +1,6 @@
-🌿 Cucumber Disease Classification with VGG-19
-This project focuses on classifying cucumber diseases using a VGG-19 model. We implemented a novel hyperparameter tuning approach to improve classification performance.
+🌿 Cucumber Disease Classification based on VGG-19
+
+This project focuses on classifying cucumber diseases building up on a VGG-19 model. We implemented a novel hyperparameter tuning approach to improve classification performance.
 
 The work supports our academic paper.
 
